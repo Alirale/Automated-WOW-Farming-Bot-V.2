@@ -4,7 +4,7 @@
 <br/>
 In the previous version, I explained how I gathered information from the game screen using an add-on we designed for this purpose.
 <br/><br/><br/><br/>
-for the farming purpose, I needed a path of coordination I wanted to my character go as its route.<br/>
+for the farming purpose, I needed a path of coordination I wanted my character to go as its route.<br/>
 So i designed a path recorder class that could record the character path and save the list of coordinations in a .txt file.
 <br/><br/>
 ![wowbot_path](https://user-images.githubusercontent.com/59726045/137365765-1ed430e8-3c8a-4a5c-ba0f-d598b8a8fdba.png)
