@@ -7,7 +7,8 @@ In the previous version, I explained how I gathered information from the game sc
 for the farming purpose, I needed a path of coordination I wanted to my character go as its route.<br/>
 So i designed a path recorder class that could record the character path and save the list of coordinations in a .txt file.
 <br/><br/>
-![wowbot_path](https://user-images.githubusercontent.com/59726045/137294928-be9ea50b-08fb-4316-9f86-812547cc9ac2.png)
+![wowbot_path](https://user-images.githubusercontent.com/59726045/137365765-1ed430e8-3c8a-4a5c-ba0f-d598b8a8fdba.png)
+
 <br/><br/>
 After gathering those information ,i had x,y,facing and all data we needed.<br/>
 I could press the 'W' key to go forward and use the mouse or 'D', 'A' keys to rotate the character's facing angle however still had to find a way to go to the each position.<br/>
